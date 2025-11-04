@@ -7,7 +7,7 @@ git clone https://github.com/Reactwithshoaib/Login-System-with-MongoDB-Atlas-Com
 ##2- Install the Dependencies: npm install
 
 
-start the server if you successfully want to login or signup , receive an signup email and get daily new summaries
+start the inngest dev server if you successfully want to login or signup , receive an signup email and get daily new summaries
 
 
 ##3- Start the inngest dev server : npx inngest-cli@latest dev
