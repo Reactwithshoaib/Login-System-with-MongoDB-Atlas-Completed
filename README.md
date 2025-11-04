@@ -1,4 +1,5 @@
 1- Clone the project using https method from github 
+git clone https://github.com/Reactwithshoaib/Login-System-with-MongoDB-Atlas-Completed ./
 
 
 2- Install the Dependencies: npm install
