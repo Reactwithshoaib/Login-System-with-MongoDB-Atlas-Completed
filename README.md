@@ -33,3 +33,6 @@ start the inngest dev server if you successfully want to login or signup , recei
 
 <img width="1914" height="915" alt="image" src="https://github.com/user-attachments/assets/a556bf19-4692-4fcd-84fe-692005c187ae" />
 
+
+
+you can see the stock graphs of different finnancial , technology and services , analyze them , search different stocks , add them to your wishlist , 12 hours daily new summaries about top tier stocks and other are coming in few days . Sit tight.
